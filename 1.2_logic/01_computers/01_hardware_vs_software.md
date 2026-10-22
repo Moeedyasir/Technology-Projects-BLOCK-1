@@ -2,7 +2,7 @@ Part 1 – Hardware vs Software
 Explain Hardware
 Write at least 50 words explaining what hardware is.
 
-A Hardware are the phycisal components of the computer that can be touched such as Motherboard, Power supply, I/O devices, 
+A Hardware are the physical components of the computer that can be touched such as Motherboard, Power supply, I/O devices, 
 AC conduct, the storage and the ram. Motherbaord contains CPU, PCSi, chipset, GPU. There is a mouse, Keyboard, a Desktop and a monitor
 that makes up a computer.
 
