@@ -1,0 +1,7 @@
+Task 3 — Storage Read/Write Speed
+Test size: 100 MiB
+Write time: 0.0127 seconds
+Write speed: 7844.70 MiB/s
+Read time: 0.0054 seconds
+Read speed: 18636.14 MiB/s
+Note: Read results may include operating-system filesystem caching.
